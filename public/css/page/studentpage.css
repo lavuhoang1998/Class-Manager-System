@@ -1,0 +1,20 @@
+#avatar{
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.value{
+    font-size: 20px;
+}
+.container#about_me{
+    margin-bottom: 10px;
+}
+#aboutme{
+    font-size: 20px;
+}

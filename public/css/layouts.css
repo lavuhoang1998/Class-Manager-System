@@ -1,0 +1,72 @@
+/*Header*/
+header {
+    background-color: rgba(226, 215, 159, 0.49);
+    height: 255px;
+}
+.header-container {
+    background-color: #d55852;
+    width: 100%;
+    height: 205px;
+    padding-top: 15px;
+}
+#logo_name{
+    background-color: white;
+    width: 110%;
+}
+#logo{
+    margin-left: 10%;
+}
+.menu-bar {
+    display: inline-block;
+    width: 80%;
+}
+.menu-bar-item {
+    list-style: none;
+    display: inline-block;
+    color: black;
+    font-size: 13pt;
+    font-family: Bookman, Tahoma, Verdana, serif;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+a{
+    color: black;
+}
+.list-group-horizontal{
+    border: none;
+}
+
+/*Footer*/
+.footer-container {
+    width: 100%;
+    padding: 20px 100px;
+    background-color: #e88a85;
+}
+.footer-container div {
+    display: inline-block;
+}
+.logo-bottom {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.copyright {
+    font-size: 12px;
+}
+.widget p {
+    margin-bottom: 5px;
+}
+.widget h4 {
+    color: black;
+    text-transform: uppercase;
+}
+.widget ul {
+    padding-inline-start: unset;
+}
+.widget ul > li {
+    padding: 7px 0;
+    list-style: none;
+    font-size: 15px;
+}
+.widget ul > li > a {
+    color: #7b7b7b;
+}

@@ -1,0 +1,52 @@
+.container{
+    background: #edf1f0;
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.card-title{
+    margin-top: 10px;
+    text-align: center;
+}
+
+#select{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
+.row col{
+    text-align: center;
+}
+
+.dropdown-menu{
+    width: 10px;
+}
+
+#grade {
+    text-align: right;
+}
+
+#class{
+    text-align: right;
+}
+
+/*table css*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #e88a85;
+    color: white;
+}
